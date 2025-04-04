@@ -1,0 +1,57 @@
+Operators:
+-->Arithmetic---> +, -, *, /, %
+-->Relational----> <, >, >=, <=, ==, !=
+-->Logical-------> &&(AND), ||(OR), !(NOT)
+-->Unary---------> +exp, -exp, ++, --
+-->Assignment--> =, +=, -=, *=, /=, %=
+-->Bitwise-------> &(AND), |(OR), ~(NOT), ^(XOR)
+-->Ternary-------> ? :
+-->Shift----------> >>(Right Shift), <<(Left Shift), >>>(Unsigned right shift)
+
+Uppercase usage: 
+System
+Class-->Class_name-->ex: Demo
+package-->Call a class-->Scanner
+Constructor -->special method
+
+Lowercase Usage:
+Keywords
+method-->ex: print()
+
+Camelcase usage
+method-->displayName()
+package class in-built mehods
+
+Conditional Statements:
+-->Simple if
+-->if else
+-->else if ladder
+-->Nested  if else
+-->switch case
+
+Jump Statements:
+-->break
+-->continue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
