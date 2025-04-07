@@ -1,0 +1,50 @@
+Console based project
+-->Banking management-->
+*methods, constructor, this-->keyword
+*switch case-->Looping statements
++-->while=false ==>exit-->false
+*OOPs
+*arraylist
+*Collection--->Generic-->pure object creation
+-->convert java as purely object oriented
+
+Looping Statement:
+-->while loop (Entry check loop)
+-->do while loop (Exit check loop)
+-->for loop (Entry controlled loop)
+-->Nested for loop
+-->enhanced for loop or for each loop
+Arrays:
+-->1D Array:
+****5-->0 to n-1(index value)
+****one row multiple column
+
+Direct Assiging:
+int[] arr = {25, 36, 48};
+
+syntax: for each
+for(arrayType variableName:  arrayObject){
+	//Statement
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
