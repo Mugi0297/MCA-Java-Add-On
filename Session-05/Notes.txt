@@ -1,0 +1,77 @@
+StringBuffer & StringBuilder
+-->StringBuffer and StringBuilder classes are mutable and 
+do not create any new string object when manipulated.
+-->Various manipulation
+      **Appending
+      **Concatenating
+      **Deleting
+-->StringBuffer and StringBuilder are objects
+
+StringBuffer vs StringBuilder
+**StringBuffer**
+-->It is introduced in jdk-1.0
+-->It is thread safe & synchronized
+
+**StringBuilder**
+-->It is introduced in jdk-1.5
+-->it is not thread safe & non-Synchronized
+
+----->Note:<----
+**Comparing String and StringBuffer whereas StringBuffer
+takes less execution time and faster than String
+**Comparing StringBuffer and StringBuilder whereas 
+StringBuilder takes less execution time and faster than
+StringBuffer
+
+
+
+
+String Tokenizer
+Access Modifiers
+-->package1
+       -->class1-->private variable, default, protected
+       -->class2-->
+-->package2
+
+-->package3
+
+
+set()-->Setter--->write--->Mutator
+get()-->Getter--->read--->Accessor
+
+Parametrized method
+Constructor
+Constructor types
+Constructor Overloading
+Copy constructor
+
+
+OOPs-->Object Oriented Programming system or structure
+
+java-->purely oops or not
+-->Yes-->convert primitive datatype to object
+          -->concept-->
+               wrapper class
+                 **Autoboxing or boxing->convert primitive 
+                     datatype to object
+                 **Unboxing-->convert object to primitive 
+                     datatype
+-->No--->Primitive datatype
+
+PD------->Object
+int---------->Integer
+char-------->Character
+float------->Float
+double---->Double
+byte------->Byte
+boolean--->Boolean
+short ------>Short
+long-------->Long
+
+
+
+
+
+
+
+
