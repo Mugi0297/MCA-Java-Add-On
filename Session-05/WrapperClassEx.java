@@ -27,6 +27,15 @@ public class WrapperClassEx {
 		System.out.println(d3);
 		System.out.println(d4);
 		
+		System.out.println("---Utility method from wrapper class---");
+		int regno = Integer.parseInt("4128");
+		double percentage = Double.parseDouble("93.75");
+		boolean data = Boolean.parseBoolean("true");
+		
+		System.out.println(regno);
+		System.out.println(percentage);
+		System.out.println(data);
+		
 		
 	}
 }
