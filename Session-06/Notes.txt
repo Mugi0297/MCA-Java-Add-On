@@ -1,0 +1,45 @@
+OOPS-->Object Oriented Programming System or Structure
+
+Concepts:
+**Class
+**Object
+**Encapsulation -model/Entity/Bean/Java bean/POJO class
+--->POJO -->Plain Old Java Object
+     1. Setter-->Mutator-->write-->set()
+     2. Getter-->Accessor-->read-->get()
+**Inheritance
+     I. Single Inheritance--------->class-based
+    II. Multi-level Inheritance--->class-based
+   III. Hierarichal Inheritance--->class-based
+   IV. Multiple Inheriatnce------>both class and interface
+    V. Hybrid Inheriatnce-------->both class and interface
+**Polymorphism
+    i). Compile-time polymorphism / Method Overloading
+   ii). Run-time polymorphism / Method Overriding
+**Abstraction
+   1. Abstract classes--->0 to 99%-->data hiding
+         --> abstract method-->method header
+         -->non-abstract method
+   2. Non-Abstract Class
+         -->non-abstract method
+   3. Interface----------->100% abstraction-->data hiding
+         -->implicitly abstract method-->header
+
+Exception Handling:
+2 types of exception
+**checked exception----->compile time exception
+**Unchecked exception-->run-time exception
+*-*-*-->Error
+blocks:
+-->try
+-->catch
+-->finally
+-->throw------>handle single exception---->compile time
+-->throws---->handle multiple exception-->run-time
+
+
+
+
+
+
+
