@@ -1,0 +1,41 @@
+Collection
+-->Group of objects known as Elements and stored in a single unit.
+
+Collections
+-->Used to store, retrieve, manipulate and communicate aggregate data 
+efficiently.
+
+Collection Framework
+-->Set of classes and interfaces in java that provide an architecture to store
+and manipulate a group of objects.
+
+Interface                     Classes
+-->List               ArrayList, LinkedList, Vector
+-->Set                HashSet, TreeSet
+-->Map              HashMap, TreeMap
+-->Queue           PriorityQueue, Deque(Double Ended Queue)
+
+
+
+List-->Parent-->Interface
+  |
+  |_ _ ArrayList (Child)-->Class
+  |_ _LinkedList (Child)-->Class
+
+Database Languages
+DDL-->Data Definition Language----->Create, Alter, Drop, Truncate
+DML-->Data Manipulation Language-->Insert, Update, Delete
+DQL-->Data Query Language-->Select
+
+
+
+
+
+
+
+
+
+
+
+
+
