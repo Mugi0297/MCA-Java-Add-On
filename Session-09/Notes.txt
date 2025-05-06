@@ -1,0 +1,50 @@
+<-------------JDBC Connectivity--------------->
+
+JDBC API
+-->Driver Manager class
+-->Driver Interface
+-->Connection Interface
+-->Statement Interface
+-->ResultSet Interface
+-->SQLException class
+
+Steps need to be followed:
+-->Declare a Connection.
+-->Create a connection method.
+-->Load the jdbc driver.
+-->Driver manager-->jdbc with mysql-->to connect database-->format URL
+     -->Permission-->mysql username and password
+-->Handle SQL exception.
+
+Creating and Executing JDBC Statements:
+-->ResultSet executeQuery(String str)--->Using SELECT Query 
+-->int executeUpdate(String str)--->Using INSERT, UPDATE, DELETE
+
+I/O Streams:
+-->Package used java.io
+
+java.io(Package)
+    |_ _InputStream(Class)
+    |                |_ _ _FileInputStream(Class)---->Example
+    |                |_ _ _FilterInputStream(Class)
+    |                                      |_ _ _ _BufferedInputStream(Class)-->Example
+    |_ _Reader(Class)
+                 |_ _ _BufferedReader(Class)------>Example
+                 |_ _ _InputStreamReader(Class)
+                                        |_ _ _ _FileReader(Class)--->Example
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
