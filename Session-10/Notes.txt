@@ -1,0 +1,58 @@
+I/O Streams:
+-->Package used java.io
+
+Output:
+
+java.io(Package)
+    |_ _OutputStream(Class)
+    |                |_ _ _FileOutputStream(Class)---->Example
+    |                |_ _ _FilterOutputStream(Class)
+    |                                      |_ _ _ _BufferedOutputStream(Class)-->Example
+    |_ _Writer(Class)
+                 |_ _ _BufferedWriter(Class)------>Example
+                 |_ _ _OutputStreamWriter(Class)
+                                        |_ _ _ _FileWriter(Class)--->Example
+
+
+MultiThreading:
+--> A thread is smallest unit of execution managed by the operating system and 
+allows for concurrent execution of code, enabling programs to perform multiple 
+tasks simultaneously.
+
+Multithreading vs Multitasking vs Multiprocessing
+
+Thread Life Cycle:
+  - - - -
+|  new   |----> Runnable <-----> Running   ----> Dead
+  - - - -              ^                                |
+                         |                                 |
+          notify/     |            - - - - - -       |   wait(), sleep(), suspend()
+         notifyAll/ |         |  Blocked/ |    |
+           resume   |------|  waiting/   |<--
+                                   |  Sleeping |
+                                     - - - - - - -
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
