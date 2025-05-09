@@ -1,0 +1,195 @@
+Console based project with JDBC Connectivity:
+
+Student Management System
+
+Files to be created:
+-->Student.java---->Varaible declaration, Constructor, Getter and Setter method,
+                                   toString Method
+
+-->StudentDAO.java-->JDBC Connectivity with CRUD-->INSERT, UPDATE,
+                                       DELETE, SELECT queries, Collections(ArrayList)
+
+-->Main.java-->Scanner class declaaration, while loop with switch case statement
+                          to show the overall console process
+
+DAO--->Data Access Object
+DTO--->Data Transaction Object
+
+1. Student Information Management System.
+Expected Output:
+➤ Insert, view, update, delete student records from DB using console inputs.
+
+Description:
+Basic system to manage student data like name, age, course, marks, etc.
+
+Features:
+Add new student
+View all students
+Search by ID
+Update student info
+Delete student record
+
+-----------------------------------------------------------------------------------
+
+2. Library Management System
+Expected Output:
+➤ Manage books in a library, handle borrow/return via console.
+
+Description:
+Console-based app to track book records and issue/return actions.
+
+Features:
+Add new book
+View available books
+Issue book to user
+Return book
+Track fine (optional)
+
+-----------------------------------------------------------------------------------
+
+3. Simple Banking System
+Expected Output:
+➤ Create accounts, deposit/withdraw money, check balance.
+
+Description:
+Handles basic banking features via Java + MySQL.
+
+Features:
+Create new account
+Deposit amount
+Withdraw amount
+Check balance
+View all accounts
+
+-----------------------------------------------------------------------------------
+
+4. Employee Payroll System
+Expected Output:
+➤ Manage employee data and calculate monthly salary.
+
+Description:
+Maintains employee info and generates salary slips based on working days.
+
+Features:
+Add new employee
+View employee list
+Enter working days
+Auto salary calculation
+View salary history
+
+-----------------------------------------------------------------------------------
+
+5. Hospital Appointment Booking System
+Expected Output:
+➤ Patients book appointments, admin checks and confirms.
+
+Description:
+Simple hospital system for booking and managing patient-doctor appointments.
+
+Features:
+Register patient
+Book appointment with doctor
+Cancel appointment
+View appointment list
+Admin approval (optional)
+
+-----------------------------------------------------------------------------------
+
+6. Hotel Room Booking System
+Expected Output:
+➤ Book/cancel hotel rooms, view availability.
+
+Description:
+Track room bookings, customer details, and check-in/out using MySQL.
+
+Features:
+Add new customer
+Book room
+Cancel booking
+View all bookings
+View available rooms
+
+-----------------------------------------------------------------------------------
+
+7. Inventory Management System
+Expected Output:
+➤ Track item stock, purchase & sales.
+
+Description:
+Inventory app to manage products and their quantities.
+
+Features:
+Add new product
+Update stock (purchase/sale)
+Delete product
+View current stock
+Generate simple reports
+
+-----------------------------------------------------------------------------------
+
+8. Online Quiz System
+Expected Output:
+➤ Users take quiz via console, marks stored in DB.
+
+Description:
+Simple MCQ-based quiz app with score calculation.
+
+Features:
+Add questions (admin)
+User login
+Attempt quiz
+View result
+Admin view score history
+
+-----------------------------------------------------------------------------------
+
+9. Vehicle Service Booking System
+Expected Output:
+➤ Book vehicle service slot, store user details in DB.
+
+Description:
+Helps users book service dates and track status.
+
+Features:
+Register vehicle
+Book service
+Cancel service
+View service status
+Admin view all bookings
+
+-----------------------------------------------------------------------------------
+
+10. Complaint Management System
+Expected Output:
+➤ Register user complaints, admin update status via console.
+
+Description:
+Track public complaints and status updates (Pending, Resolved).
+
+Features:
+Register complaint
+View all complaints
+Update complaint status
+Search complaint by ID
+Delete complaint
+
+-----------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
